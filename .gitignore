@@ -1,0 +1,14 @@
+## Ignore Visual Studio temporary files
+.vs/
+**/copilot-chat/
+
+## Build folders
+bin/
+obj/
+
+## User files
+*.user
+*.suo
+
+## Local appsettings
+appsettings.*.json

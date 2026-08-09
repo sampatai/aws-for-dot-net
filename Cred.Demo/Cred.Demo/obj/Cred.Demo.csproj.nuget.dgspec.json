@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj": {}
+    "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj": {
+    "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
+        "projectUniqueName": "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
         "projectName": "Cred.Demo",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
+        "projectPath": "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\obj\\",
+        "outputPath": "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

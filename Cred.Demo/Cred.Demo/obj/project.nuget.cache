@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4egQSNDR1w=",
+  "dgSpecHash": "e8ZmfYxdfxo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
+  "projectFilePath": "C:\\projects\\aws-for-dot-net\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.core\\4.0.100.9\\awssdk.core.4.0.100.9.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\awssdk.extensions.netcore.setup\\4.0.100.7\\awssdk.extensions.netcore.setup.4.0.100.7.nupkg.sha512",
