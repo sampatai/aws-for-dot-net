@@ -3,8 +3,11 @@
 **/copilot-chat/
 
 ## Build folders
-bin/
-obj/
+# Build folders
+/bin/
+/obj/
+**/bin/
+**/obj/
 
 ## User files
 *.user
@@ -12,3 +15,29 @@ obj/
 
 ## Local appsettings
 appsettings.*.json
+
+# Common secret/config files
+.env
+.env.*
+.env.local
+credentials
+.aws/
+**/credentials
+secrets.json
+**/secrets.json
+
+# Key and certificate files
+*.pem
+*.key
+*.pfx
+*.jks
+*.p12
+*.crt
+*.cer
+*.der
+
+# Other sensitive files
+*.secret
+*.sensitive
+*_secret*
+
