@@ -18,10 +18,7 @@ namespace Cred.Demo.Controllers
         [HttpGet("lists")]
         public async Task<IActionResult> GetBuckets()
         {
-            // If you need a client with explicit credentials for local testing, load them from a secure location (not source).
-            // Example (DO NOT store keys in code):
-            // var creds = new Amazon.Runtime.BasicAWSCredentials("<ACCESS_KEY>", "<SECRET_KEY>");
-            // using var client = new AmazonS3Client(creds, Amazon.RegionEndpoint.APSoutheast2);
+
 
             var data = await _amazonS3.ListBucketsAsync();
             var bucketNames = data.Buckets.Select(b => b.BucketName).ToList();
