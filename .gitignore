@@ -15,8 +15,11 @@
 
 ## Local appsettings
 appsettings.*.json
+appsettings.development.*
 
 # Common secret/config files
+secret
+secret/
 .env
 .env.*
 .env.local
