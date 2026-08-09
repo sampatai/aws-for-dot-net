@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\02547edb-d16e-49e3-a72d-40dab3c17540\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|c:\\users\\lenovo\\source\\repos\\cred.demo\\cred.demo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|solutionrelative:cred.demo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|c:\\users\\lenovo\\source\\repos\\cred.demo\\cred.demo\\controllers\\bucketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|solutionrelative:cred.demo\\controllers\\bucketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|c:\\users\\lenovo\\source\\repos\\cred.demo\\cred.demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|solutionrelative:cred.demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|c:\\users\\lenovo\\source\\repos\\cred.demo\\cred.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|solutionrelative:cred.demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\settle-mate\\SettleMate\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|c:\\users\\lenovo\\source\\repos\\cred.demo\\cred.demo\\cred.demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AD531BC-5E9A-46A0-9A6E-96E9AB7FEC51}|Cred.Demo\\Cred.Demo.csproj|solutionrelative:cred.demo\\cred.demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cred.Demo",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
+              "RelativeDocumentMoniker": "Cred.Demo\\Cred.Demo.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Cred.Demo.csproj",
+              "RelativeToolTip": "Cred.Demo\\Cred.Demo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-09T09:56:46.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\02547edb-d16e-49e3-a72d-40dab3c17540\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\02547edb-d16e-49e3-a72d-40dab3c17540\\secrets.json",
+              "ToolTip": "C:\\Users\\Lenovo\\AppData\\Roaming\\Microsoft\\UserSecrets\\02547edb-d16e-49e3-a72d-40dab3c17540\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\02547edb-d16e-49e3-a72d-40dab3c17540\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-09T09:17:45.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Cred.Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\appsettings.json",
+              "RelativeToolTip": "Cred.Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T02:10:40.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cred.Demo\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\appsettings.Development.json",
+              "RelativeToolTip": "Cred.Demo\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-05T02:10:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\settle-mate\\SettleMate\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\projects\\settle-mate\\SettleMate\\Program.cs",
+              "ToolTip": "C:\\projects\\settle-mate\\SettleMate\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\projects\\settle-mate\\SettleMate\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T01:52:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BucketController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Controllers\\BucketController.cs",
+              "RelativeDocumentMoniker": "Cred.Demo\\Controllers\\BucketController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Controllers\\BucketController.cs",
+              "RelativeToolTip": "Cred.Demo\\Controllers\\BucketController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T01:48:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Cred.Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Cred.Demo\\Cred.Demo\\Program.cs",
+              "RelativeToolTip": "Cred.Demo\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T01:33:05.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
