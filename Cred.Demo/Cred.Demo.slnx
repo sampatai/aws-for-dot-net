@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Cred.Demo/Cred.Demo.csproj" />
+  <Project Path="Lamda.Demo.Tests/Lamda.Demo.Tests.csproj" />
+  <Project Path="Lamda.Demo/Lamda.Demo.csproj" />
 </Solution>
