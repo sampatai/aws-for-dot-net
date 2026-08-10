@@ -1,8 +1,0 @@
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Lamda.Demo.deps.json
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Lamda.Demo.runtimeconfig.json
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Lamda.Demo.pdb
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Amazon.Lambda.Core.dll
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\AWSSDK.Core.dll
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\AWSSDK.S3.dll
-C:\projects\aws-for-dot-net\Cred.Demo\Lamda.Demo\bin\Release\net10.0\publish\Lamda.Demo.dll
