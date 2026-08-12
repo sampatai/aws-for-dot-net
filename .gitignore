@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/LamdaDemo/.vs/LamdaDemo/CopilotIndices/18.9.1268.207
+/LamdaDemo/.vs
+/LamdaDemo/FirstLamda/bin
+/LamdaDemo/FirstLamda/obj
+/.vs/CopilotSnapshots/A97AE94FFD02FF47B4219908480098C9
